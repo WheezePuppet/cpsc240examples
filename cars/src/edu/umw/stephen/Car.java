@@ -50,9 +50,17 @@ class Car {
         odo += numMiles;
     }
 
+    public String toString() {
+        return "a " + yearsOld + "-year-old " + make + " " + model;
+    }
+
     public static void main(String args[]) {
-        System.out.println("Way to go people!");
-        Car minivan = new Car("Chevy","Malibu");
+
+        // Demonstrate the automatic use of ".toString()".
+        Car malibu = new Car("Chevy","Malibu");
+        System.out.println("my car is: " + malibu);
+
+        Car minivan = new Car("Toyota","Sienna");
         minivan.fillUp();
         try {
             minivan.drive(10);
