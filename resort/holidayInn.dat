@@ -1,12 +1,13 @@
 Holiday Inn resorts
 2018 -- final
-copyright 2018
-Written by Stephen Davies, Esquire
-hi mom 
--
+Copyright 2018 Stephen Davies, Esquire
+University of Mary Washington
+Computer Science Department
+-------------------------
 Westword Spa and Surf
 312-555-1234
 5
+$$$$
 This luxurious beach property
 is a pleasure for all who visit.
 Dogs and cats welcome too!
@@ -14,6 +15,7 @@ Dogs and cats welcome too!
 Roadkill Motel
 306-555-4444
 1
+$$
 The 1970's-style armchairs aren't
 the problem: the holes in the walls
 and the odorific properties are.
@@ -22,9 +24,18 @@ Traveler beware!
 Transylvania Mansion
 111-555-4321
 1
+$$$$
 It's grand though somewhat off-putting
 in its ostentatiousness. There's also
 this dude with fangs who sucks your blood
 if you're not careful.
+.
+ABC Inn
+123-456-7890
+3
+$
+Nothin' fancy, nothin' broken. Your basic
+motel for the budget (but hygiene-conscious)
+traveler.
 .
 END
