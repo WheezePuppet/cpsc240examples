@@ -20,7 +20,4 @@ class Resort {
         }
     }
 
-    public String toString() {
-        return "a " + rating + "-star resort called " + name;
-    }
 }
