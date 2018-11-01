@@ -1,0 +1,2 @@
+
+class NoPlayerException extends Exception { }

@@ -1,0 +1,2 @@
+
+class NoTeamException extends Exception { }
